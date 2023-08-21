@@ -69,11 +69,11 @@ export const availableLocations = [
     locationName: "國一N142K", // 銅鑼鄉
     sunriseCityName: "苗栗縣",
   },
-  {
-    cityName: "雲林縣",
-    locationName: "草嶺",
-    sunriseCityName: "雲林縣",
-  },
+  //  {
+  //   cityName: "雲林縣",
+  //   locationName: "斗南",
+  //   sunriseCityName: "雲林縣",
+  // },
   {
     cityName: "臺東縣",
     locationName: "臺東",
@@ -116,7 +116,7 @@ export const availableLocations = [
   },
   {
     cityName: "臺南市",
-    locationName: "南區中心",
+    locationName: "曾文",
     sunriseCityName: "臺南市",
   },
   {
